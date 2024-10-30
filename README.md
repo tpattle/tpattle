@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Tom! <br/><a href="https://linkedin.com/in/tpattle">Aspiring IT Professional</a>
 
-<!--
-**tpattle/tpattle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>MS Azure</b>
+  - [Building a Honeynet & SOC in Azure (Live Traffic)](https://github.com/tpattle/azure-soc)
+    
+<h2>✍ In-Depth Project Breakdowns & Articles</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Building a SOC and Honeynet in Microsoft Azure: A Hands-On Guide to Threat Detection and Incident Response](https://www.linkedin.com/pulse/building-soc-honeynet-microsoft-azure-hands-on-guide-threat-pattle-i6jbf)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/tpattle
